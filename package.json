@@ -1,0 +1,17 @@
+{
+  "name": "drpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "got": "^11.8.2",
+    "node-gyp": "^7.1.2",
+    "rpcmaker": "^1.7.6"
+  },
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
